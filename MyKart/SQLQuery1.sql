@@ -1,0 +1,1 @@
+﻿select * from tblItems a join tblcart b on a.Id=b.ProductId
